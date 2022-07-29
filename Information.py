@@ -1,3 +1,4 @@
+import pandas as pd
 class Information:
     """This class shows some information about 
     the dataset
