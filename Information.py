@@ -4,7 +4,7 @@ class Information:
     the dataset
     """
     def __init__(self):
-        print("Information object is created")
+        print("\n Information object is created \n")
         
     def get_missing_values(self, data):
         """this function finds the missing values
